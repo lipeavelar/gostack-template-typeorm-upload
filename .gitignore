@@ -6,3 +6,6 @@ temp/
 
 tmp/*
 !tmp/.gitkeep
+
+docker-compose.yml
+src/database/scripts
